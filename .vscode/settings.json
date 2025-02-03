@@ -4,6 +4,7 @@
 		"checkpointer",
 		"langchain",
 		"langgraph",
+		"tiktoken",
 		"uuidv"
 	]
 }

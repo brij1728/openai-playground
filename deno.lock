@@ -104,6 +104,7 @@
         "npm:dotenv@^16.4.7",
         "npm:langchain@~0.3.15",
         "npm:openai@^4.81.0",
+        "npm:tiktoken@^1.0.18",
         "npm:uuid@^11.0.5"
       ]
     }
